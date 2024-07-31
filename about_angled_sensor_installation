@@ -1,0 +1,6 @@
+About 2024 06 21 Angled Sensor Installation Guide
+This script enables the optimal installation (according to the Field of View (FOV)) for downward looking sensors.
+
+For NDVI sensors: the calculation optimises the NDVI sensors installation at the appropriate height and distance from the ground and nearby objects (such as a concrete footing), to be certain that only the sky (upward-looking sensor) and ground/vegetation (downward-looking sensor) are in the field of view.
+
+For Infrared sensors: the calculation optimises the sensor installation at the appropriate height and distance from the ground and nearby objects (such as a concrete footing), to be certain that only the target area is measured.
